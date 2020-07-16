@@ -6,3 +6,6 @@ dependencies:
   - matplotlib
   - pandas
   - tesseract
+  - pip
+  - pip:
+    - ocrmypdf
